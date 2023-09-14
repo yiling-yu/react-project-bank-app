@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-project-bank-app/static/css/main.0df9080d.css",
-    "main.js": "/react-project-bank-app/static/js/main.2499d100.js",
+    "main.js": "/react-project-bank-app/static/js/main.205d33dd.js",
     "static/media/iPhone.png": "/react-project-bank-app/static/media/iPhone.f9e936d64d726036a2fd.png",
     "static/media/load.png": "/react-project-bank-app/static/media/load.bc430cb522e123ae2def.png",
     "static/media/InnovSlogan.png": "/react-project-bank-app/static/media/InnovSlogan.249a102180d7bac858ea.png",
     "static/media/HeadLogo.png": "/react-project-bank-app/static/media/HeadLogo.4a76ce81a7eeec1edebc.png",
     "index.html": "/react-project-bank-app/index.html",
     "main.0df9080d.css.map": "/react-project-bank-app/static/css/main.0df9080d.css.map",
-    "main.2499d100.js.map": "/react-project-bank-app/static/js/main.2499d100.js.map"
+    "main.205d33dd.js.map": "/react-project-bank-app/static/js/main.205d33dd.js.map"
   },
   "entrypoints": [
     "static/css/main.0df9080d.css",
-    "static/js/main.2499d100.js"
+    "static/js/main.205d33dd.js"
   ]
 }
